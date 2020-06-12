@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tgB9FnEt9OJNJnjsEdM647evZk9RExzMlHCyIsL7/jYekyFsCOJZLrc8kG5ujk7JxsBiXuuupjvxNw8JoZZLwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zamaro studio\\Desktop\\net technologijos\\ClassLibrary\\ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zamaro studio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zamaro studio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
